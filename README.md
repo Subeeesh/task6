@@ -1,1 +1,3 @@
-# task6
+<head>
+<title>My Website</title>
+</head>
